@@ -27,17 +27,26 @@ This project analyzes retail transactions using Python and Pandas. The goal is t
 
 ## Progress So Far
 
-### Day 1: Initial Data Exploration
-- Loaded the Online Retail dataset using Pandas.
-- Inspected the dataset dimensions, first five records, column names, and data types.
-- Checked missing values in each column.
+### Day 1
 
-### Day 2: Planned Work
-- Add data-quality checks and summary statistics.
-- Investigate duplicate records, invalid quantities and prices, and cancellation invoices.
-- Perform preliminary sales analysis and save reports.
+* Loaded the Online Retail dataset using Pandas.
+* Inspected dataset dimensions, column names, data types, and missing values.
 
-*Update this section as each task is completed.*
+### Day 2
+
+* Added duplicate-row and data-quality checks.
+* Investigated non-positive quantities, prices, and cancellation invoices.
+* Calculated preliminary sales revenue.
+* Generated country revenue and product quantity rankings.
+* Exported initial analysis reports to CSV.
+
+## Next Steps
+
+* Review data-quality findings and clean the dataset.
+* Transform data for analysis.
+* Design related database tables and an ERD.
+* Load processed data into a database and create SQL reporting queries.
+
 
 ## How to Run
 1. Download the dataset from the UCI link above.
