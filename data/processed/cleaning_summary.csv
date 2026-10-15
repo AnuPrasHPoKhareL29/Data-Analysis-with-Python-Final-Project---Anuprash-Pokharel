@@ -1,0 +1,7 @@
+Metric,Value
+Original rows,541909
+Duplicate rows removed,5268
+Rows after duplicate removal,536641
+Rows retained for sales analysis,524878
+Rows excluded from sales analysis,11763
+Missing customer IDs in retained data,132186
