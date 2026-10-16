@@ -1,12 +1,11 @@
-
-# Python environment and cache
 .venv/
 __pycache__/
 *.py[cod]
 
-# Local dataset files
 data/raw/
+data/processed/cleaned_retail.csv
+data/database/
+
 *.zip
 
-# Local secrets
 .env
