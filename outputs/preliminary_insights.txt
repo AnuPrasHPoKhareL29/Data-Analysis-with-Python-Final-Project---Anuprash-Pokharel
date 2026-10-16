@@ -1,0 +1,7 @@
+Preliminary Retail Analysis Findings
+
+1. Total revenue across included records: 10642110.80.
+2. Country with the highest revenue: United Kingdom.
+3. Highest-quantity product: PAPER CRAFT , LITTLE BIRDIE.
+4. Number of distinct orders: 19960.
+5. Average order value: 533.17.
